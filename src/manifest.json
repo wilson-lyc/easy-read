@@ -1,0 +1,10 @@
+{
+  "id": "easy-read",
+  "name": "EasyRead",
+  "version": "0.1.0",
+  "minAppVersion": "1.5.0",
+  "description": "基于 LLM 的翻译插件，支持划词翻译（Markdown/PDF）和全文翻译",
+  "author": "",
+  "authorUrl": "",
+  "isDesktopOnly": false
+}

@@ -1,0 +1,32 @@
+{
+  "name": "easyread",
+  "version": "0.1.0",
+  "description": "基于 LLM 的 Obsidian 翻译插件 — 划词翻译 + 全文翻译",
+  "main": "main.js",
+  "scripts": {
+    "dev": "node esbuild.config.mjs",
+    "build": "node esbuild.config.mjs production",
+    "lint": "tsc --noEmit",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "keywords": [
+    "obsidian",
+    "plugin",
+    "translation",
+    "llm",
+    "pdf"
+  ],
+  "author": "",
+  "license": "MIT",
+  "type": "commonjs",
+  "devDependencies": {
+    "@types/node": "^25.9.1",
+    "builtin-modules": "^5.2.0",
+    "esbuild": "^0.28.0",
+    "jsdom": "^29.1.1",
+    "obsidian": "^1.13.0",
+    "typescript": "^6.0.3",
+    "vitest": "^4.1.8"
+  }
+}
