@@ -48,7 +48,7 @@
 3. Click **Browse** and search for **"EasyRead"**
 4. Click **Install** → **Enable**
 
-> ⏳ Submitted to community store — awaiting review. Install via BRAT in the meantime.
+> ⏳ PR submitted to community store — awaiting review. Install via BRAT in the meantime.
 
 ### 📦 Manual Installation
 
@@ -80,26 +80,6 @@
 | **Open sidebar** | `Ctrl+P` → `EasyRead: 打开翻译侧边栏` |
 | **Open settings** | Click ⚙ in sidebar title, or go to Settings → EasyRead |
 | **Browse history** | Click **▼ 历史记录** in sidebar to expand, click any entry to reload |
-
-### Sidebar Layout
-
-```
-┌───────────────────────────────┐
-│ 侧边翻译                   ⚙  │
-├───────────────────────────────┤
-│ [auto ▼]  ⇄  [中文 ▼]        │
-├───────────────────────────────┤
-│ 原文 [textarea]               │
-│ [翻译]                         │
-│ 译文 [textarea]               │
-│ [复制译文]                     │
-├───────────────────────────────┤
-│ ▼ 历史记录 (5)        [清空]   │
-│ ┌───────────────────────────┐ │
-│ │ Previous translations...  │ │
-│ └───────────────────────────┘ │
-└───────────────────────────────┘
-```
 
 ## Configuration
 
